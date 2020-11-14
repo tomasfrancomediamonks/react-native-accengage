@@ -2,7 +2,7 @@
   "name": "react-native-accengage",
   "version": "1.4.2",
   "description": "Accengage ReactNative module.",
-  "files": ["src", "ios", "android"],
+  "files": ["src", "ios", "android", "RNAccengageModule.podspec"],
   "main": "src/index.js",
   "scripts": {
     "start": "node node_modules/react-native/local-cli/cli.js start"
